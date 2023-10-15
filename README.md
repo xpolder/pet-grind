@@ -4,7 +4,7 @@
 
 | ✅  Name of the project|  📝 Brief description | Stack |
 |--------|--------|--------|
-|  Week 1. Entropy |   Class 1: Data manipulation, data visualization |
+|  **Research of advertisements of apartments for sale** | We have at our disposal data from the Yandex.Real Estate service \\ - an archive of advertisements for apartments for sale in St. Petersburg and neighboring cities for several years. Let's determine the market value of real estate objects. Our task is to set the parameters. This will allow you to build an automated system: it will track anomalies and fraudulent activity.  |
 |   |   🔗[Notebook v1](https://github.com/Shuaynat/DSE-23-24/blob/b8ac97748127ebea5f59f821c33ae4e8b1ae248c/01-classes/DS23_ICEF_class1.ipynb), [Notebook v2](https://github.com/Shuaynat/DSE-23-24/blob/b8ac97748127ebea5f59f821c33ae4e8b1ae248c/01-classes/DS23_ICEF_class1_sp.ipynb) |
 |  Week 2. Kelly criterion |   Class 2: group by, reshape and join|
 |   |   🔗 [Notebook class 2](https://github.com/Shuaynat/DSE-23-24/blob/main/02-classes/DS23_ICEF_class2.ipynb), [Notebook 2 solutions](https://github.com/Shuaynat/DSE-23-24/blob/main/02-classes/DS23_ICEF_class2_solutions.ipynb) >>> |
