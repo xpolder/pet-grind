@@ -2,7 +2,7 @@
 
 **Repository content:**
 
-| ✅  Name of the project|  📝 Brief description | Stack | Methods, models |
+| ✅  Name of the project|  📝 Brief description | 😮‍💨 Stack | 🤖 Methods, models |
 |--------|--------|--------|--------|
 | **1. Research of advertisements of apartments for sale** 🔗[Project_Advertisements](Project_Advertisements.ipynb)|We have at our disposal data from the Yandex.Real Estate service \\ - an archive of advertisements for apartments for sale in St. Petersburg and neighboring cities for several years. Let's determine the market value of real estate objects. Our task is to set the parameters. This will allow you to build an automated system: it will track anomalies and fraudulent activity. | **`pandas` `matplotlib.pyplot` `numpy`**| `Data Analysis` `Preprocessing` |
 | **2. Analysis and prediction of computer games' sales** 🔗[Project_Computer_Games](Project_Computer_Games.ipynb) | We are going to analyze and predict the sales of an online computer game store based on data up to 2016. In the dataset comes the acronym ESRB (Entertainment Software Rating Board), which is an association that determines the age rating of computer games. The ESRB rates game content and assigns it an appropriate age category, such as "For Adults," "For Young Children," or "For Teens." | **`pandas` `numpy` `plotly.graph_objects`**| `Preprocessing` `Testing Hypotheses` |
