@@ -4,8 +4,8 @@
 
 | ✅  Name of the project|  📝 Brief description | Stack |
 |--------|--------|--------|
-|  **Research of advertisements of apartments for sale** | We have at our disposal data from the Yandex.Real Estate service \\ - an archive of advertisements for apartments for sale in St. Petersburg and neighboring cities for several years. Let's determine the market value of real estate objects. Our task is to set the parameters. This will allow you to build an automated system: it will track anomalies and fraudulent activity.  |
-|   |   🔗[Project_Advertisements](Project_Advertisements.ipynb) | ** 'pandas' ** |
+|  **Research of advertisements of apartments for sale** 🔗[Project_Advertisements](Project_Advertisements.ipynb)| We have at our disposal data from the Yandex.Real Estate service \\ - an archive of advertisements for apartments for sale in St. Petersburg and neighboring cities for several years. Let's determine the market value of real estate objects. Our task is to set the parameters. This will allow you to build an automated system: it will track anomalies and fraudulent activity.  | **'pandas', 'matplotlib.pyplot'**
+|   |   🔗[Project_Advertisements](Project_Advertisements.ipynb) |
 |  Week 2. Kelly criterion |   Class 2: group by, reshape and join|
 |   |   🔗 [Notebook class 2](https://github.com/Shuaynat/DSE-23-24/blob/main/02-classes/DS23_ICEF_class2.ipynb), [Notebook 2 solutions](https://github.com/Shuaynat/DSE-23-24/blob/main/02-classes/DS23_ICEF_class2_solutions.ipynb) >>> |
 |  Week 3. Trees |   Class 3: Trees|
