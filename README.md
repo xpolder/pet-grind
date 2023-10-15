@@ -1,5 +1,7 @@
 # Projects
 
+**In this repository I've uploaded all work that I did since I've first heard of Data Science and Machine Learning**
+
 **Repository content:**
 
 | ✅  Name of the project|  📝 Brief description | 😮‍💨 Stack | 🤖 Methods, models |
