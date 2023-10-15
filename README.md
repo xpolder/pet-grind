@@ -1,5 +1,5 @@
 # Projects
-
+**This is a repository of my small pet-projects and I've decided to compile them all together in one table**
 **Repository content:**
 
 | ✅  Name of the project|  📝 Brief description | 😮‍💨 Stack | 🤖 Methods, models |
